@@ -23,26 +23,3 @@ nav {
 .button:hover {
     background-color: rgb(71, 167, 184);
 }
-
-#tabelas-questao1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 30px;
-}
-
-table, td {
-    width: 400px;
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
-}
-
-.align-text-center{
-    text-align: center;
-}
-
-.align-text-rigth{
-    text-align: right;
-}
-
