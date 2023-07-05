@@ -1,9 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 #tabelas-questao1{
     display: flex;
     flex-direction: column;
