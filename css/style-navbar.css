@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.button {
+    background-color: rgb(57, 57, 206);
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+.button:hover {
+    background-color: rgb(71, 167, 184);
+}
